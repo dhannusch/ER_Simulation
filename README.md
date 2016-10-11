@@ -1,6 +1,9 @@
 # ER_Simulation
+(Open README.md as "raw" for proper formatting for txt file)
+
 Using python and a QUEUE abstract data structure to simulate an emergency room waiting line.
 The program opens a file called ERsim.txt and reads in a list of instructions.
+
 Example of ERsim.txt (must use this formatting):
   "
     add Scott,M. Critical
